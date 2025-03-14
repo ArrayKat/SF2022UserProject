@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF2022UserTest", "SF2022UserTest.csproj", "{DBC3C6D7-957A-401F-BC1F-55062A6545E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SF2022UserLib", "..\SF2022UserLib\SF2022UserLib.csproj", "{30D18386-3B5F-406F-8FC2-66ACAE1F6579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC3C6D7-957A-401F-BC1F-55062A6545E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC3C6D7-957A-401F-BC1F-55062A6545E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC3C6D7-957A-401F-BC1F-55062A6545E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC3C6D7-957A-401F-BC1F-55062A6545E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D18386-3B5F-406F-8FC2-66ACAE1F6579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D18386-3B5F-406F-8FC2-66ACAE1F6579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D18386-3B5F-406F-8FC2-66ACAE1F6579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D18386-3B5F-406F-8FC2-66ACAE1F6579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

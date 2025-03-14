@@ -1,0 +1,11 @@
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\bin\Debug\net9.0\SF2022UserLib.deps.json
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\bin\Debug\net9.0\SF2022UserLib.dll
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\bin\Debug\net9.0\SF2022UserLib.pdb
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\SF2022UserLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\SF2022UserLib.AssemblyInfoInputs.cache
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\SF2022UserLib.AssemblyInfo.cs
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\SF2022UserLib.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\SF2022UserLib.dll
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\refint\SF2022UserLib.dll
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\SF2022UserLib.pdb
+C:\Users\Katya\source\repos\SF2022UserProject\SF2022UserLib\obj\Debug\net9.0\ref\SF2022UserLib.dll
